@@ -27,21 +27,57 @@ import argparse
 from src.config import langnames
 
 parser = argparse.ArgumentParser(
-    prog="Troop Client",
-    description="Collaborative interface for Live Coding")
+    prog="Troop Client", description="Collaborative interface for Live Coding"
+)
 
-parser.add_argument('-i', '--cli', action='store_true', help="Use the command line to enter connection info")
-parser.add_argument('-p', '--public', action='store_true', help="Connect to public Troop server")
-parser.add_argument('-H', '--host', action='store', help="IP Address of the machine running the Troop server")
-parser.add_argument('-P', '--port', action='store', help="Port for Troop server (default 57890)")
-parser.add_argument('-n', '--name', action='store', help="Display name to use")
-parser.add_argument('-m', '--mode', action='store', default='foxdot',
-                    help='Name of live coding language ({}) or a valid executable'.format(', '.join(langnames.keys())))
-parser.add_argument('-s', '--syntax', action='store',
-                    help='Name of live coding language syntax to use when selecting "No Interpreter" option.')
-parser.add_argument('-a', '--args', action='store', help="Add extra arguments to supply to the interpreter", nargs=argparse.REMAINDER, type=str)
-parser.add_argument('-c', '--config', action='store_true', help="Load connection info from 'client.cfg'")
-parser.add_argument('--hub', help="Connect to a named Troop server running on the Troop Hub Service")
+parser.add_argument(
+    "-i",
+    "--cli",
+    action="store_true",
+    help="Use the command line to enter connection info",
+)
+parser.add_argument(
+    "-p", "--public", action="store_true", help="Connect to public Troop server"
+)
+parser.add_argument(
+    "-H",
+    "--host",
+    action="store",
+    help="IP Address of the machine running the Troop server",
+)
+parser.add_argument(
+    "-P", "--port", action="store", help="Port for Troop server (default 57890)"
+)
+parser.add_argument("-n", "--name", action="store", help="Display name to use")
+parser.add_argument(
+    "-m",
+    "--mode",
+    action="store",
+    default="foxdot",
+    help="Name of live coding language ({}) or a valid executable".format(
+        ", ".join(langnames.keys())
+    ),
+)
+parser.add_argument(
+    "-s",
+    "--syntax",
+    action="store",
+    help='Name of live coding language syntax to use when selecting "No Interpreter" option.',
+)
+parser.add_argument(
+    "-a",
+    "--args",
+    action="store",
+    help="Add extra arguments to supply to the interpreter",
+    nargs=argparse.REMAINDER,
+    type=str,
+)
+parser.add_argument(
+    "-c", "--config", action="store_true", help="Load connection info from 'client.cfg'"
+)
+parser.add_argument(
+    "--hub", help="Connect to a named Troop server running on the Troop Hub Service"
+)
 
 args = parser.parse_args()
 
@@ -53,11 +89,11 @@ from getpass import getpass
 
 # Language and syntax
 
-options = { 'lang': args.mode }
+options = {"lang": args.mode}
 
 if args.syntax:
 
-    options['syntax'] = args.syntax
+    options["syntax"] = args.syntax
 
 # Server address
 
@@ -68,57 +104,58 @@ if args.hub:
     print("Troop Hub Service | Collecting details for '{}'".format(args.hub))
 
     hub = HubParser(args.hub)
-    address = HubClient(**hub).query(hub.get('name'))
+    address = HubClient(**hub).query(hub.get("name"))
 
     print("Troop Hub Service | Success.")
 
-    options['host'], options['port'] = address
+    options["host"], options["port"] = address
 
 elif args.public:
 
     from src.config import PUBLIC_SERVER_ADDRESS
-    options['host'], options['port'] = PUBLIC_SERVER_ADDRESS
+
+    options["host"], options["port"] = PUBLIC_SERVER_ADDRESS
 
 else:
 
     if args.host:
 
-        options['host'] = args.host
+        options["host"] = args.host
 
     if args.port:
 
-        options['port'] = args.port
+        options["port"] = args.port
 
 # User name
 
 if args.name:
 
-    options['name'] = args.name
+    options["name"] = args.name
 
 # Non-gui startup
 
 if args.cli:
 
-    if 'host' not in options:
+    if "host" not in options:
 
-        options['host'] = readin("Troop Server Address", default="localhost")
+        options["host"] = readin("Troop Server Address", default="localhost")
 
-    if 'port' not in options:
+    if "port" not in options:
 
-        options['port'] = readin("Port Number", default="57890")
+        options["port"] = readin("Port Number", default="57890")
 
-    if 'name' not in options:
+    if "name" not in options:
 
-        options['name'] = readin("Enter a name")
+        options["name"] = readin("Enter a name")
 
-    options['password'] = getpass()
-    options['get_info'] = False # Flag to say we don't need the GUI
+    options["password"] = getpass()
+    options["get_info"] = False  # Flag to say we don't need the GUI
 
 elif args.config:
 
     import os.path
 
-    if os.path.isfile('client.cfg'):
+    if os.path.isfile("client.cfg"):
 
         """
         You can set a configuration file if you are connecting to the same
@@ -130,7 +167,7 @@ elif args.config:
 
         """
 
-        options.update(Client.read_configuration_file('client.cfg'))
+        options.update(Client.read_configuration_file("client.cfg"))
 
     else:
 
@@ -140,6 +177,6 @@ elif args.config:
 
 if args.args:
 
-    options['args'] = args.args
+    options["args"] = args.args
 
 myClient = Client(**options)
