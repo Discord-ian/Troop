@@ -1,0 +1,820 @@
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+ ~/Documents/troop   OT  python run-client.py
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in thread Thread-1 (handle):
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/disco/Documents/troop/src/receiver.py", line 93, in handle
+    raise(e)
+  File "/Users/disco/Documents/troop/src/receiver.py", line 71, in handle
+    packet = self.reader.feed(self.sock.recv(self.bytes))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/message.py", line 49, in feed
+    raise EmptyMessageError()
+src.message.EmptyMessageError: 'Message contained no data'
+^CException in thread Thread-2 (stdout):
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/disco/Documents/troop/src/interpreter.py", line 299, in stdout
+    if len(message) > 0 and self.client.is_master():
+                            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/client.py", line 184, in is_master
+    if peer_id < self.id:
+       ^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'int' and 'NoneType'
+^[[A
+^C%
+ ✘  ~/Documents/troop   OT  python run-client.py
+ ~/Documents/troop   OT  python run-client.py > client-errors.txt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 691, in key_press
+    index_offset = self.get_delete_selection_offset(char)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/Users/disco/.pyenv/versions/3.12.2/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 647, in key_press
+    operation, index_offset = self.get_delete_selection_operation()
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 734, in get_delete_selection_operation
+    offset = self.get_delete_selection_offset()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/disco/Documents/troop/src/interface/interface.py", line 750, in get_delete_selection_offset
+    raise IndexError("Selection indicies do not match")
+IndexError: Selection indicies do not match
