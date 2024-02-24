@@ -1,3 +1,7 @@
+# disco troop
+
+Includes small adjustments, but not really meant for others? Some improvments will hopefully be pushed to the main repo at some point.
+
 # Troop v0.10.3
 
 ## Real-time collaborative live coding
